@@ -1,0 +1,29 @@
+.titul {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subti {
+    color: blue;
+    font-size: 24px;
+    text-align: center;   
+}
+.blocotext1 {
+    text-align: center;
+    font-size: 23px;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.css1 {
+    font-weight: bold;
+}
+.blocotext2 {
+    text-align: center;
+    font-size: 23px;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.css2 {
+    font-weight: bold;
+}
